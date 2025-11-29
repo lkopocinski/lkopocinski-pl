@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Hugo Static Site Generator"
 date: 2025-01-15
-draft: false
+draft: true
 tags: ["hugo", "web development", "static sites", "tutorial"]
 categories: ["Web Development"]
 author: "Łukasz Kopocinski"

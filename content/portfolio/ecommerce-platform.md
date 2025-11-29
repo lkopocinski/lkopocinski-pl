@@ -1,7 +1,7 @@
 ---
 title: "E-Commerce Platform Redesign"
 date: 2025-01-10
-draft: false
+draft: true
 tags: ["react", "nodejs", "ecommerce", "web development"]
 categories: ["Web Development"]
 description: "Complete redesign and modernization of an e-commerce platform"

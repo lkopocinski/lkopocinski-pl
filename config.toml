@@ -1,6 +1,6 @@
 baseURL = 'https://lkopocinski.github.io/'
 languageCode = 'en-us'
-title = 'Łukasz Kopocinski'
+title = 'Łukasz Kopociński - Software Engineering'
 theme = 'PaperMod'
 enableRobotsTXT = true
 buildDrafts = false
@@ -18,12 +18,16 @@ pygmentsUseClasses = true
 
 [params]
   env = "production"
-  title = "Łukasz Kopocinski"
+  DateFormat = "January 2, 2006"
+
+  # For SEO
   description = "Portfolio and blog about software development and technology"
   keywords = ["portfolio", "blog", "web development", "software engineering", "technology"]
-  author = "Łukasz Kopocinski"
-  images = ["/images/avatar.png"]
-  DateFormat = "January 2, 2006"
+  author = "Łukasz Kopociński"
+  # For social media cards
+  images = ["/images/avatar.jpeg"]
+
+  # For theme
   defaultTheme = "auto"
   disableThemeToggle = false
   ShowReadingTime = true
@@ -32,12 +36,12 @@ pygmentsUseClasses = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-  ShowRssButtonInSectionTermList = true
+  ShowRssButtonInSectionTermList = false
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false
   comments = false
-  hidemeta = false
+  hideMeta = false
   hideSummary = false
   showtoc = true
   tocopen = false
@@ -60,9 +64,9 @@ pygmentsUseClasses = true
     name = "linkedin"
     url = "https://linkedin.com/in/lkopocinski"
 
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:lkopocinski@gmail.com"
+  # [[params.socialIcons]]
+  #   name = "email"
+  #   url = "mailto:lkopocinski@gmail.com"
 
 [menu]
   [[menu.main]]
@@ -71,11 +75,11 @@ pygmentsUseClasses = true
     url = "/services/"
     weight = 10
 
-  [[menu.main]]
-    identifier = "portfolio"
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 20
+  # [[menu.main]]
+  #   identifier = "portfolio"
+  #   name = "Portfolio"
+  #   url = "/portfolio/"
+  #   weight = 20
 
   [[menu.main]]
     identifier = "blog"
@@ -83,11 +87,11 @@ pygmentsUseClasses = true
     url = "/blog/"
     weight = 30
 
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"
-    weight = 40
+  # [[menu.main]]
+  #   identifier = "search"
+  #   name = "Search"
+  #   url = "/search/"
+  #   weight = 40
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
