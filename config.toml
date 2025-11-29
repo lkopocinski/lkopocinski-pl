@@ -49,11 +49,16 @@ pygmentsUseClasses = true
   [params.homeInfoParams]
     Title = "Hi, I'm Łukasz 👋"
     Content = """
-    Welcome to my website! I specialize in software development.
+    AI & LLM Specialist | Machine Learning Engineer | Senior Software Engineer
 
-    - 💼 Check out my [services](/services/)
-    - 🎯 Browse my [portfolio](/portfolio/)
-    - 📝 Read my [blog](/blog/)
+    I specialize in designing, developing, and deploying AI solutions with Large Language Models (LLMs). With extensive experience in machine learning engineering and software development, I help businesses leverage cutting-edge AI technology to solve complex problems.
+
+    What I can help you with:
+    - 🤖 LLM application development and integration
+    - 🚀 AI solution architecture and deployment
+    - 📊 MLOps and automated ML workflows
+    - ☁️ Cloud-based AI solutions (Azure ML)
+    - 🔍 Natural Language Processing projects
     """
 
   [[params.socialIcons]]
