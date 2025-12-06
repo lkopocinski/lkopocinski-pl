@@ -1,27 +1,59 @@
 ---
 title: "Services"
-description: "Professional software development services"
+description: "Professional AI/ML and software development services"
 ---
 
 ## What I Offer
 
-### Web Development
-Full-stack web application development using modern technologies and frameworks. From concept to deployment, I deliver scalable and maintainable solutions.
+### 🤖 LLM Application Development & Integration
 
-### Software Consulting
-Expert guidance on architecture, technology selection, and best practices. Help with code reviews, performance optimization, and technical decision-making.
+Build production-ready applications powered by Large Language Models including chatbots, AI assistants, and RAG systems.
 
-### Custom Solutions
-Tailored software solutions designed specifically for your business needs. Integration with existing systems and custom tool development.
+**Technologies:** OpenAI API, Anthropic Claude, LangChain, LlamaIndex, Vector Databases
+
+---
+
+### 🚀 AI Solution Architecture & Deployment
+
+Design and deploy scalable AI systems from concept to production with proper infrastructure and monitoring.
+
+**Technologies:** Docker, Kubernetes, FastAPI, MLflow, AWS SageMaker, Azure ML
+
+---
+
+### 📊 MLOps & Automated ML Workflows
+
+Streamline machine learning operations with automated pipelines, model versioning, and CI/CD for ML models.
+
+**Technologies:** MLflow, Kubeflow, GitHub Actions, Apache Airflow, DVC
+
+---
+
+### ☁️ Cloud-Based AI Solutions
+
+Leverage cloud platforms to build scalable, cost-effective AI/ML systems with expert guidance on Azure ML and AWS.
+
+**Technologies:** Azure ML, Azure OpenAI Service, AWS SageMaker, Cloud Functions
+
+---
+
+### 🔍 Natural Language Processing
+
+Advanced NLP solutions for text analysis, classification, sentiment analysis, and information extraction.
+
+**Technologies:** Transformers, spaCy, Hugging Face, PyTorch, TensorFlow
+
+---
 
 ## Why Work With Me?
 
-- ✅ Clean, maintainable code
-- ✅ Focus on performance and scalability
-- ✅ Regular communication and updates
-- ✅ Attention to detail and quality
-- ✅ On-time delivery
+- ✅ Production-ready, clean, and maintainable code
+- ✅ End-to-end expertise from research to deployment
+- ✅ Clear communication and transparent project management
+- ✅ Solutions aligned with business goals
+
+---
 
 ## Let's Talk
 
-Interested in working together? [Get in touch](mailto:lkopocinski@gmail.com) to discuss your project.
+Interested in working together? Let's discuss your project.
